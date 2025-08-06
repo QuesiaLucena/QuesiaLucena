@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👩‍💻 Quesia Lucena
 
-<!--
-**QuesiaLucena/QuesiaLucena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante ADS`**
 
-Here are some ideas to get you started:
+Me chamo Quesia Costa Lucena, tenho 27 anos e sou de Goiânia - Goias.
+Atualmente estou cusando Análise e Desenvolvimento de Sistemas na Unip.
+Sou apaixonada por tecnologia e estou aprimorando meus conhecimentos para me tornar a melhor back-end. 
+Java foi a linguagem escolhida para trilhar esse caminho de sucesso. 👌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+###👩‍💻  Linguagens e Tecnologias 
+
+
+
+   <img 
+     aling="left"
+     alt="JAVA"
+     title="JAVA"
+     width="30px"
+     style="padding-right: 10px;"
+ width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/35d7b755-ab4a-43f7-bea4-75f211815181" />
+
+
+
+          
+          
+          
+          
+          
