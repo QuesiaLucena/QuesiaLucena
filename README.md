@@ -8,25 +8,29 @@ Sou apaixonada por tecnologia e estou aprimorando meus conhecimentos para me tor
 Java foi a linguagem escolhida para trilhar esse caminho de sucesso. 👌
 
 ---
-###👩‍💻  Linguagens e Tecnologias 
+###👩‍💻  Linguagens e Tecnologias ###👩‍💻
 
 
-
+<p>
    <img 
-     aling="left"
      alt="JAVA"
      title="JAVA"
-     width="30px"
+     width="50px"
      style="padding-right: 10px;"
- width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/35d7b755-ab4a-43f7-bea4-75f211815181" />
+ width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/35d7b755-ab4a-43f7-bea4-75f211815181"  />
 
-<img 
-     aling="left"
-     alt="SPRINGBOOT"
-     title="SPRINGBOOT"
-     width="30px"
-     style="padding-right: 10px;"
-     <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d9e92556-8760-4e80-86ae-486d26699c20" />
+ <img 
+    alt="SPRING"
+    title="SPRING"
+    width="50px"
+    style="padding-right: 10px;"
+    width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/647ebc3f-9da2-4b02-8bd5-285c86fba461" />
+
+   </p>
+
+
+ 
+
 
  
 
