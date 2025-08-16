@@ -15,16 +15,42 @@ Java foi a linguagem escolhida para trilhar esse caminho de sucesso. 👌
    <img 
      alt="JAVA"
      title="JAVA"
-     width="50px"
+     width="40px"
      style="padding-right: 10px;"
- width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/35d7b755-ab4a-43f7-bea4-75f211815181"  />
-
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/98c99871-2b3b-4fcf-a6ff-f320dbcb5d0b" />
  <img 
     alt="SPRING"
     title="SPRING"
-    width="50px"
+    width="40px"
     style="padding-right: 10px;"
-    width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/647ebc3f-9da2-4b02-8bd5-285c86fba461" />
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/e14aa610-2a3f-4c6b-b6b5-c5667a2d48b2" />
+    <img
+    alt="POSTGRESQL"
+    title="POSTGRESQL"
+    width="40px"
+    style="padding-right: 10px;"
+    <img width="540" height="557" alt="image" src="https://github.com/user-attachments/assets/d62a1e71-6282-44ec-a358-0f274f589b11" />
+     <img
+    alt="INTELLID"
+    title="INTELLID"
+    width="40px"
+    style="padding-right: 10px;"
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/cc6e58c7-62f2-43b4-bcf7-5cfe06b1e7c2" />
+     <img
+    alt="DOCKER"
+    title="DOCKER"
+    width="40px"
+    style="padding-right: 10px;"
+    <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/12ab6708-93ed-40bd-80d1-cb085b8bf8de" />
+
+    
+
+
+    
+
+ 
+
+ 
 
    </p>
 
